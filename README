@@ -1,3 +1,9 @@
-Hola, esta es mi versión de la prueba, para installarlo deben correr desde luego composer , adicionalmente he agregado los plugins con npm, por lo que deben correr npm install.
+Hola, esta es mi versión de la prueba, la he desarrollado con el framework codeigniter, bootstrap, mysql, y jquery.
 
-No tenia claro si debía hacer una funcionalidad de login con manejo de sessiones por lo tanto he desarrollado la aplicacion de modo muy global, pero si me dicen que debo añadirle un manejo de session de usuario diganme y lo hago. saludos.
+Para instalarlo deben correr desde luego composer, adicionalmente he agregado los plugins con npm, por lo que deben correr npm install.
+
+La base de datos la he dejado en la carpeta scripts/instalacion.sql , contiene la estructura de tablas y alguna data de prueba.
+
+No tenia claro si debía hacer una funcionalidad de login con manejo de sessiones por lo tanto he desarrollado la aplicacion de modo muy global, pero si me dicen que debo añadirle un manejo de session de usuario diganme y lo hago.
+
+Quedo atenta a sus comentarios . Saludos.
