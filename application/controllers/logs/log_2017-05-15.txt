@@ -1,0 +1,10 @@
+[2017-05-15 20:52:53.999315] [info] Se ha guardado una nueva valoracion id:1 cliente:1 pelicula:1
+[2017-05-15 20:56:05.423317] [info] Se ha guardado una nueva valoracion id:2 cliente:1 pelicula:1
+[2017-05-15 20:58:18.759711] [info] Se ha guardado una nueva valoracion id:3 cliente:1 pelicula:1
+[2017-05-15 21:01:13.334450] [info] Se ha guardado una nueva valoracion id:1 cliente:1 pelicula:1
+[2017-05-15 21:01:18.322659] [info] Se ha guardado una nueva valoracion id:1 cliente:1 pelicula:1
+[2017-05-15 21:01:48.411070] [info] Se ha guardado una nueva valoracion id:1 cliente:1 pelicula:1
+[2017-05-15 21:15:54.606252] [info] Se ha guardado una nueva valoracion id:4 cliente:1 pelicula:4
+[2017-05-15 21:16:10.845570] [info] Se ha guardado una nueva valoracion id:1 cliente:2 pelicula:4
+[2017-05-15 21:16:20.141849] [info] Se ha guardado una nueva valoracion id:5 cliente:2 pelicula:2
+[2017-05-15 21:19:01.498991] [info] Se ha guardado una nueva valoracion id:1 cliente:2 pelicula:4

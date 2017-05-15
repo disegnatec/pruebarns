@@ -1,0 +1,3 @@
+Hola, esta es mi versión de la prueba, para installarlo deben correr desde luego composer , adicionalmente he agregado los plugins con npm, por lo que deben correr npm install.
+
+No tenia claro si debía hacer una funcionalidad de login con manejo de sessiones por lo tanto he desarrollado la aplicacion de modo muy global, pero si me dicen que debo añadirle un manejo de session de usuario diganme y lo hago. saludos.
