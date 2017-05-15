@@ -52,7 +52,7 @@ $template = array(
     <link rel="manifest" href="/manifest.json">
     <!-- Icons -->
     <!-- The following icons can be replaced with your own, they are used by desktop and mobile browsers -->
-    <link rel="shortcut icon" href="<?php echo $ruta; ?>recursos/img/favicon.png">
+    <link rel="shortcut icon" href="<?php echo $ruta; ?>recursos/img/favicon.ico">
     <link rel="apple-touch-icon" href="<?php echo $ruta; ?>recursos/recursos/img/icon57.png" sizes="57x57">
     <link rel="apple-touch-icon" href="<?php echo $ruta; ?>recursos/recursos/img/icon72.png" sizes="72x72">
     <link rel="apple-touch-icon" href="<?php echo $ruta; ?>recursos/recursos/img/icon76.png" sizes="76x76">
